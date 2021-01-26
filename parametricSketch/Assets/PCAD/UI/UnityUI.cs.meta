@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bf75c78e665c87f4a8958d02bddf96ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CoordinateSystemUI: {instanceID: 0}
+  - GeometryUI: {instanceID: 0}
+  - ParameterUI: {instanceID: 0}
+  - CursorUI: {fileID: 11400000, guid: d06e9d7aa11f6534a81e2cfa1aabe998, type: 2}
+  - ControlPanel: {instanceID: 0}
+  - DrawingCanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

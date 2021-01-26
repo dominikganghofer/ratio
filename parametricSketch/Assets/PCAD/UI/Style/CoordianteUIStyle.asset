@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e04582b7b5c90d84d864d96e3164dbe5, type: 3}
+  m_Name: CoordianteUIStyle
+  m_EditorClassIdentifier: 
+  Lambda:
+    Colors:
+      DefaultStyle: {fileID: 11400000, guid: 9c9e76b176fc6ad4f8a776da11a46bf1, type: 2}
+      DraggedOrExplicitInput: {fileID: 11400000, guid: 877a6a69bc02e284bacfe6e78a9695f6,
+        type: 2}
+      Drawing: {fileID: 11400000, guid: 326a925d1e4635a43aefc1d4ebffdf1a, type: 2}
+      OtherIsDragged: {fileID: 11400000, guid: 85c4332eaa0a89c40bd4835521832a78, type: 2}
+      HasParameterReference: {fileID: 11400000, guid: 877a6a69bc02e284bacfe6e78a9695f6,
+        type: 2}
+    GridLineStyle:
+      Color: {fileID: 11400000, guid: 41bf5915284cc5a4d9e25c39d912d989, type: 2}
+      Width: 0.5
+    CoordinateGizmoStyle:
+      ArrowAngle: 30
+      MarkDimensions: {x: 1, y: 2}
+      Width: 0.5
+    DimensionLineStyle:
+      Width: 0.5
+    LabelStyle:
+      FontSize: 10
+      LabelBackground: {fileID: 11400000, guid: 32fd9c58b4b803942afc94ebe599a598,
+        type: 2}
+  Mue:
+    Colors:
+      DefaultStyle: {fileID: 11400000, guid: 204df41a0394c7842b7fad4aba0adb88, type: 2}
+      DraggedOrExplicitInput: {fileID: 11400000, guid: 877a6a69bc02e284bacfe6e78a9695f6,
+        type: 2}
+      Drawing: {fileID: 11400000, guid: ed2ecd74ef205f34d91e43acd8d60fc3, type: 2}
+      OtherIsDragged: {fileID: 11400000, guid: bfed0812703e44e4696cca956939c043, type: 2}
+      HasParameterReference: {fileID: 11400000, guid: 877a6a69bc02e284bacfe6e78a9695f6,
+        type: 2}
+    GridLineStyle:
+      Color: {fileID: 11400000, guid: 41bf5915284cc5a4d9e25c39d912d989, type: 2}
+      Width: 0.5
+    CoordinateGizmoStyle:
+      ArrowAngle: 100
+      MarkDimensions: {x: 0.5, y: 4}
+      Width: 5
+    DimensionLineStyle:
+      Width: 0.5
+    LabelStyle:
+      FontSize: 10
+      LabelBackground: {fileID: 11400000, guid: 32fd9c58b4b803942afc94ebe599a598,
+        type: 2}
+  Origin:
+    GridLineStyle:
+      Color: {fileID: 11400000, guid: 41bf5915284cc5a4d9e25c39d912d989, type: 2}
+      Width: 0.5
+    CoordinateGizmoStyle:
+      ArrowAngle: 30
+      MarkDimensions: {x: 0, y: 0}
+      Width: 0.5
+    Colors:
+      DefaultStyle: {fileID: 11400000, guid: aad5b4179e9620c4a9cec06c191b6399, type: 2}
+      DraggedOrExplicitInput: {fileID: 11400000, guid: aad5b4179e9620c4a9cec06c191b6399,
+        type: 2}
+      Drawing: {fileID: 11400000, guid: aad5b4179e9620c4a9cec06c191b6399, type: 2}
+      OtherIsDragged: {fileID: 11400000, guid: aad5b4179e9620c4a9cec06c191b6399, type: 2}
+      HasParameterReference: {fileID: 11400000, guid: aad5b4179e9620c4a9cec06c191b6399,
+        type: 2}
+  Anchor:
+    CircleStyle:
+      PrimaryColor: {fileID: 11400000, guid: 9c9e76b176fc6ad4f8a776da11a46bf1, type: 2}
+      SecondaryColor: {fileID: 11400000, guid: 85c4332eaa0a89c40bd4835521832a78, type: 2}
+      Radius: 7
+      InnerRadius: 2
+      Width: 0.5

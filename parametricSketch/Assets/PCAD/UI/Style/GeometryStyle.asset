@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8be426912737614daccf0c12d6991fe, type: 3}
+  m_Name: GeometryStyle
+  m_EditorClassIdentifier: 
+  Set:
+    DefaultStyle:
+      OutlineColor: {fileID: 11400000, guid: 877a6a69bc02e284bacfe6e78a9695f6, type: 2}
+      FillColorBlack: {fileID: 11400000, guid: 877a6a69bc02e284bacfe6e78a9695f6, type: 2}
+      FillColorGrey: {fileID: 11400000, guid: d7ca87c2fab7ca0489b96d133bd3eddb, type: 2}
+      FillColorWhite: {fileID: 11400000, guid: 909efbcb5a9c5c64aba37dbc96cf568a, type: 2}
+      OutlineWidth: 0.5
+    DrawingStyle:
+      OutlineColor: {fileID: 11400000, guid: 877a6a69bc02e284bacfe6e78a9695f6, type: 2}
+      FillColorBlack: {fileID: 11400000, guid: 877a6a69bc02e284bacfe6e78a9695f6, type: 2}
+      FillColorGrey: {fileID: 11400000, guid: d7ca87c2fab7ca0489b96d133bd3eddb, type: 2}
+      FillColorWhite: {fileID: 11400000, guid: 909efbcb5a9c5c64aba37dbc96cf568a, type: 2}
+      OutlineWidth: 1
+  BackgroundColor: {fileID: 11400000, guid: 32fd9c58b4b803942afc94ebe599a598, type: 2}
