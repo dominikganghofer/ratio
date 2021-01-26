@@ -3,8 +3,7 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-Assets/AssetStoreTools*
-
+parametricSketch/Assets/AssetStoreTools*
 # Visual Studio cache directory
 .vs/
 
@@ -36,3 +35,6 @@ sysinfo.txt
 *.unitypackage
 
 .idea
+
+# Firebase Keys
+parametricSketch/Assets/StreamingAssets/google-services*
