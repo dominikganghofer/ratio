@@ -25,7 +25,6 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.afphoto filter=lfs diff=lfs merge=lfs -text
 *.afdesign filter=lfs diff=lfs merge=lfs -text
-
 # Audio
 *.mp3 filter=lfs diff=lfs merge=lfs -text
 *.ogg filter=lfs diff=lfs merge=lfs -text
@@ -36,7 +35,6 @@
 *.it filter=lfs diff=lfs merge=lfs -text
 *.s3m filter=lfs diff=lfs merge=lfs -text
 *.xm filter=lfs diff=lfs merge=lfs -text
-
 # Video
 *.mov filter=lfs diff=lfs merge=lfs -text
 *.avi filter=lfs diff=lfs merge=lfs -text
@@ -47,7 +45,6 @@
 *.flv filter=lfs diff=lfs merge=lfs -text
 *.ogv filter=lfs diff=lfs merge=lfs -text
 *.wmv filter=lfs diff=lfs merge=lfs -text
-
 # 3D
 *.fbx filter=lfs diff=lfs merge=lfs -text
 *.obj filter=lfs diff=lfs merge=lfs -text
@@ -66,14 +63,12 @@
 *.3dm filter=lfs diff=lfs merge=lfs -text
 *.bin filter=lfs diff=lfs merge=lfs -text
 *.glb filter=lfs diff=lfs merge=lfs -text
-
 # Executables
 *.exe filter=lfs diff=lfs merge=lfs -text
 *.dll filter=lfs diff=lfs merge=lfs -text
 *.so filter=lfs diff=lfs merge=lfs -text
 *.pdb filter=lfs diff=lfs merge=lfs -text
 *.mdb filter=lfs diff=lfs merge=lfs -text
-
 # Packaging
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.7z filter=lfs diff=lfs merge=lfs -text
