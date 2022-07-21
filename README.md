@@ -1,11 +1,9 @@
-# pCAD
+# Ratio
 
-Early mockup for a minimal parametric CAD tool
+_A small tool for parametric napkin sketches 📝_
 
 
-
-## Motivation
-
+**Motivation** ⚡
 - even the first CAD tool Sketchpad was meant to be used as a parametric tool
 - these features are rarely used during the design of e.g. floor plans
 - find the right subset of parametric features for an early architectural sketch
@@ -13,11 +11,12 @@ Early mockup for a minimal parametric CAD tool
 
 
 
-## Ideas
-
+**Ideas** 💡
 - avoid any additional steps for the definition of parametric constraints
 - interpret the way a user would draw in a non parametric tool
-- tailored towards rectangular shapes
+- tailored towards rectangular shapes 📐
+
+
 
 
 
